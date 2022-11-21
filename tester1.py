@@ -1,5 +1,5 @@
+#!/usr/bin/python3
 import unittest
-
 from palindrome import isPalindrome
 
 class TestCase(unittest.TestCase):
